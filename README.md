@@ -1,4 +1,4 @@
-# A list of simple lifehacks helping being present in the moment
+# A list of simple lifehacks helping being happier in the moment
 
 ## General
 * Breath in, breath out
@@ -24,3 +24,6 @@
 
 ## Driving
 * Keep the right lane
+
+## Excercising
+* Listen to audiobook
