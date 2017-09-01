@@ -16,6 +16,7 @@
 * Sing/say with vowels
 * Seek for win-win
 * Tough situations are opportunities to become better
+* Take others seriously
 
 ## Pondering
 * Make mindmap
