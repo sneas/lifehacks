@@ -16,6 +16,7 @@
 ## Pondering
 * Make mindmap
 * What would ________ do?
+* Take a walk
 
 ## Working (as a developer)
 * Work standing
