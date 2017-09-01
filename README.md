@@ -8,10 +8,13 @@
 * Contemplate emptyness
 * Scrutinize emotions
 * Be ecological
+* A deal with deavil will cost you
 
-## Communicating
+## Interacting with others
 * Ask yourself "How can I help this person?"
 * Sing/say with vowels
+* Seek for win-win
+* Tough situations are opportunities to become better
 
 ## Pondering
 * Make mindmap
@@ -21,7 +24,8 @@
 ## Working (as a developer)
 * Work standing
 * Contribute to open-source
-* Tough work situations are opportunities to become better
+* Follow SOLID and YAGNI
+* Put ToDo when cutting corners
 
 ## Driving
 * Keep the right lane
