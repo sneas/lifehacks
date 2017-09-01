@@ -9,6 +9,7 @@
 * Scrutinize emotions
 * Be ecological
 * A deal with deavil will cost you
+* Drink some water
 
 ## Interacting with others
 * Ask yourself "How can I help this person?"
