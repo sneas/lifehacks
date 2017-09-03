@@ -1,4 +1,4 @@
-# A list of simple lifehacks to help being happier in the moment
+# A list of simple lifehacks helping me to be happier in the moment
 
 ## General
 * Breath in, breath out
