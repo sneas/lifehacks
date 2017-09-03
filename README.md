@@ -3,12 +3,11 @@
 ## General
 * Breath in, breath out
 * Look for green objects
-* Imagine your skin is shining like a rainbow (or like an oil on water)
+* Imagine your skin is shining like a rainbow (or like oil on water)
 * Do not trust thoughts
 * Contemplate emptyness
 * Scrutinize emotions
 * Be ecological
-* A deal with deavil will cost you
 * Drink some water
 
 ## Interact with others
