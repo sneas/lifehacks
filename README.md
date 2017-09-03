@@ -1,4 +1,4 @@
-# A list of simple lifehacks helping being happier in the moment
+# A list of simple lifehacks to help being happier in the moment
 
 ## General
 * Breath in, breath out
@@ -11,26 +11,31 @@
 * A deal with deavil will cost you
 * Drink some water
 
-## Interacting with others
+## Interact with others
 * Ask yourself "How can I help this person?"
 * Sing/say with vowels
 * Seek for win-win
 * Tough situations are opportunities to become better
 * Take others seriously
 
-## Pondering
+## Ponder
 * Make mindmap
 * What would ________ do?
 * Take a walk
 
-## Working (as a developer)
+## Work (as a developer)
 * Work standing
 * Contribute to open-source
 * Follow SOLID and YAGNI
 * Put ToDo when cutting corners
 
-## Driving
-* Keep the right lane
+## Drive
+* Keep right lane
 
-## Excercising
+## Excerce
 * Listen to audiobook
+
+## Fall asleep
+* Relax face muscules
+* 4-7-8 breath technique
+* Visualise in details the room you're sleeping in
