@@ -21,6 +21,7 @@
 * Make mindmap
 * What would ________ do?
 * Take a walk
+* Ask your death for an advice
 
 ## Work (as a developer)
 * Work standing
@@ -38,3 +39,4 @@
 * Relax face muscules
 * 4-7-8 breath technique
 * Visualise in details the room you're sleeping in
+* Force yourself not to sleep while fully relaxed (releaves frustration)
