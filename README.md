@@ -40,3 +40,6 @@
 * 4-7-8 breath technique
 * Visualise in details the room you're sleeping in
 * Force yourself not to sleep while fully relaxed (releaves frustration)
+
+## Cope with emotions
+* Look at the emotion closely with curiosity
