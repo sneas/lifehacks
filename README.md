@@ -16,6 +16,7 @@
 * Seek for win-win
 * Tough situations are opportunities to become better
 * Take others seriously
+* Notice eye color
 
 ## Ponder
 * Make mindmap
