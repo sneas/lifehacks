@@ -1,14 +1,8 @@
 # A list of simple lifehacks helping me to be happier in the moment
 
 ## General
-* Breath in, breath out
-* Look for green objects
-* Imagine your skin is shining like a rainbow (or like oil on water)
-* Do not trust thoughts
-* Contemplate emptyness
-* Scrutinize emotions
-* Be ecological
 * Drink some water
+* Be ecological
 
 ## Interact with others
 * Ask yourself "How can I help this person?"
@@ -17,12 +11,13 @@
 * Tough situations are opportunities to become better
 * Take others seriously
 * Notice eye color
+* Speak up for others
+* Ask for advice
 
 ## Ponder
 * Make mindmap
 * What would ________ do?
 * Take a walk
-* Ask your death for an advice
 
 ## Work (as a developer)
 * Work standing
@@ -43,4 +38,7 @@
 * Force yourself not to sleep while fully relaxed (releaves frustration)
 
 ## Cope with emotions
-* Look at the emotion closely with curiosity
+* Breath in, breath out
+* Do not trust thoughts
+* Contemplate emptyness
+* Scrutinize emotions
