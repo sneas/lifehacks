@@ -28,8 +28,12 @@
 ## Drive
 * Keep right lane
 
-## Excerce
+## Excercise
 * Listen to audiobook
+
+## Meditate
+* Concentreate on breath but do not control it
+* Think of some color
 
 ## Fall asleep
 * Relax face muscules
@@ -38,7 +42,5 @@
 * Force yourself not to sleep while fully relaxed (releaves frustration)
 
 ## Cope with emotions
-* Breath in, breath out
 * Do not trust thoughts
-* Contemplate emptyness
 * Scrutinize emotions
