@@ -28,7 +28,7 @@
 ## Drive
 * Keep right lane
 
-## Excercise
+## Exercise
 * Listen to audiobook
 
 ## Meditate
